@@ -6,6 +6,7 @@ SimpleGUI is a Python package for creating graphical user interfaces, developed 
 
 ## CodeSkuptor
 You can run the codes in CodeSkulptor; an interactive, web-based Python programming environment that allows Python code to be run in a web browser. This application is also developed by professor Scott Rixner.
+Simply just copy the codes, then paste and run them in CodeSkulptor.
 https://py3.codeskulptor.org/#
 
 ## Disclaimer
