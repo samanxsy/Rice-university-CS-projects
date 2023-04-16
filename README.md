@@ -10,4 +10,5 @@ Simply just copy the codes, then paste and run them in CodeSkulptor.
 https://py3.codeskulptor.org/#
 
 ## Disclaimer
-The codes in this repository shall NOT be used in the course by any other individual.
+The codes in this repository shall NOT be used to complete the course tasks.
+This repository serves solely as an archive, and its contents may not be utilized by any individual.
